@@ -1,0 +1,24 @@
+{
+  "before": {
+    "setupScrollWidth": 2018,
+    "setupClientWidth": 538,
+    "cmdScrollWidth": 1505,
+    "codeLen": 204,
+    "overflows": true,
+    "accessCount": 3,
+    "hasMeta": true,
+    "hasFooter": true,
+    "hasWaiting": true
+  },
+  "after": {
+    "setupScrollWidth": 538,
+    "setupClientWidth": 538,
+    "cmdScrollWidth": 480,
+    "codeLen": 204,
+    "overflows": false,
+    "accessCount": 3,
+    "hasMeta": true,
+    "hasFooter": true,
+    "hasWaiting": true
+  }
+}
